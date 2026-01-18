@@ -16,6 +16,7 @@
 ---
 
 Работа балансировщика
+
 ![balance](img/balance.png)
 
 
